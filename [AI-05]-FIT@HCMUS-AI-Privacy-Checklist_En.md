@@ -1,0 +1,74 @@
+# Privacy & Responsible AI Use Checklist
+
+**Faculty of Information Technology (FIT)** — Ho Chi Minh City University of Science (HCMUS)  
+**CS423 / CSC13003** — Software Testing (AI-augmented · 2026)
+
+---
+
+> **AI POLICY · TEMPLATES — 2026 v1.0**  
+> Privacy & Responsible AI Use Checklist  
+> Run through this checklist before submitting any AI-assisted work.  
+> Adapted from Med Kharbach, PhD (2026) — *AI Use Policy Templates for Higher Education*. CC BY-NC-SA 4.0.  
+> This adaptation is prepared for FIT@HCMUS – CS423 / CSC15003 Software Testing course.
+
+---
+
+## 1. Before I Use AI
+
+- [X] I confirmed the AI Use Category assigned to this assignment.
+- [X] I have declared which AI tool(s) I will use in my prompt log.
+- [X] I have read the AI Use Agreement for this course.
+- [X] I understand which artifacts **MUST NOT** be AI-generated.
+
+---
+
+## 2. While I Am Using AI
+
+- [X] I did **not** enter personal data of classmates, customers, or patients.
+- [X] I did **not** paste copyrighted reading materials wholesale into the AI.
+- [X] I did **not** paste proprietary employer or open-source license-restricted code.
+- [X] I logged each prompt + AI response into `prompt_log.md` with timestamp.
+
+---
+
+## 3. Before I Submit My Work
+
+- [X] All AI-generated artifacts are tagged in the AI Audit Report.
+- [X] All citations from AI have been verified (sources actually exist).
+- [X] All AI-generated code has been executed and tested.
+- [X] My 200–300-word AI Critique is included in the report.
+- [X] The Mandatory Disclosure paragraph is at the end of my report.
+- [X] I attached the AI Use Disclosure Form.
+- [X] I am ready for a 5–7-min random oral defense the week after submission.
+
+---
+
+## 4. Final Statement
+
+> **Final responsibility** for the accuracy, originality, and integrity of this submission rests with me. Any undisclosed AI use is treated as **academic misconduct**.
+
+---
+
+## Signature
+
+| Field                  | Value |
+| :--------------------- | :---- |
+| Student name (printed) | Ngô Hồng Thanh |
+| Student ID             | 23127475 |
+| Class / Cohort         | 23KTPM3 |
+| Course                 | CS423 / CSC13003 – Software Testing |
+| Instructor             | MSc. Trần Thị Bích Hạnh, MSc. Hồ Tuấn Thanh |
+| Date                   | 6/8/2026 |
+| **Signature**          | Ngô Hồng Thanh |
+
+---
+
+## References
+
+- Kharbach, M. (2026). *AI Use Policy Templates for Higher Education*. CC BY-NC-SA 4.0.
+- ISTQB Foundation Level Syllabus (latest version).
+- Hardman, P. (2025). A Post-AI Learning Taxonomy.
+- Fuster Rabella, M. (2025). *OECD Education Working Paper No. 338*.
+- Perkins, M., Roe, J., & Furze, L. (2025). AI Assessment Scale.
+- Anthropic (2025). *Building reliable AI test agents* — engineering blog.
+- DeepEval & Promptfoo documentation — testing frameworks for LLM systems.
