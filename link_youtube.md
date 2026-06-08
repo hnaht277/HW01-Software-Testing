@@ -1,0 +1,5 @@
+TC02 [Video TC02](https://youtube.com/shorts/Uw_NPfMhIC8?feature=share) 
+TC05 [Video TC05](https://youtube.com/shorts/b6lxVXX1yrU?feature=share) 
+TC08 [Video TC08](https://youtube.com/shorts/sN1r4Jd04jg?feature=share) 
+TC11 [Video TC11](https://youtube.com/shorts/Lqt7AUigC98?feature=share) 
+TC12 [Video TC12](https://youtube.com/shorts/_yMQa2UNUGU?feature=share) 

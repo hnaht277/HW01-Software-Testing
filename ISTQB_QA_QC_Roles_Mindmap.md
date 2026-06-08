@@ -1,7 +1,9 @@
-# ISTQB QA/QC Role Mindmap
+# ISTQB Testing Roles Mindmap
 
 ## Overview
-This mindmap illustrates the key roles and responsibilities in Software Testing based on the ISTQB (International Software Testing Qualifications Board) framework, covering both **Quality Assurance (QA)** and **Quality Control (QC)** functions.
+This mindmap illustrates the key roles and responsibilities in Software Testing based on the ISTQB (International Software Testing Qualifications Board) framework.
+
+> **Note on QA vs QC:** ISTQB Foundation Level (CTFL 4.0) does not define "QA Role" or "QC Role" as formal certification roles. Instead, it defines **Test Management Role** and **Testing Role**. QA (Quality Assurance) and QC (Quality Control) are **quality concepts** — QA focuses on **process & prevention**, while QC focuses on **product & detection**. They are complementary and are embedded within the roles below, not standalone ISTQB roles.
 
 ---
 
@@ -37,7 +39,10 @@ mindmap
         Unit Testing
         Integration Testing
         System Testing
-        UAT Testing
+      Validation Focus
+        User Acceptance Testing (UAT)
+        Field Testing
+        Beta Testing
       Product Focus
         Bug Detection
         Test Reporting
@@ -112,10 +117,12 @@ mindmap
         Test Planning & Estimation
         Test Monitoring & Control
         Test Selection & Strategy
-      Test Analyst Track
         Test Process Improvement
+      Test Analyst Track
         Test Design Techniques
         Requirements-Based Testing
+        Risk-Based Testing
+        Defect Prevention
         Industry Standards Compliance
       Technical Test Analyst Track
         Test Architecture Design
@@ -134,8 +141,7 @@ mindmap
 | **Test Analyst** | Design & Analysis | Requirements analysis, test case design, traceability | Foundation / Advanced |
 | **Test Automation Engineer** | Tool & Automation | Framework development, script creation, CI/CD | Specialist |
 | **Test Environment Manager** | Infrastructure | Environment setup, data management, monitoring | Support Role |
-| **QA Engineer** | Process & Prevention | Process definition, improvement, quality metrics | Foundation / Advanced |
-| **QC Engineer** | Product & Detection | Test execution, defect reporting, validation | Foundation |
+| **Technical Test Analyst** | Architecture & Non-Functional | Test architecture, performance, security, automation strategy | Advanced |
 
 ---
 
@@ -176,9 +182,10 @@ Foundation Level (CTFL)
 
 ## Key Takeaways
 
-- **QA** focuses on **process improvement** and **prevention** of defects
-- **QC** focuses on **product validation** and **detection** of defects
+- **ISTQB defines two primary roles:** Test Management Role and Testing Role — not "QA" or "QC" as standalone roles
+- **QA** (process & prevention) and **QC** (product & detection) are quality concepts embedded within testing roles, not separate ISTQB-certified roles
+- **Verification** ("building the product right") applies to unit, integration, and system testing
+- **Validation** ("building the right product") is the primary goal of UAT and acceptance testing
 - ISTQB provides a **structured certification pathway** from Foundation to Expert level
-- Both QA and QC are **complementary** and essential for software quality
-- The **Test Manager** oversees both QA and QC activities
-- **Test Automation** is a specialized role within the QA/QC framework
+- The **Test Manager** oversees testing activities; the **Test Analyst** focuses on test analysis and design
+- **Test Automation** is a specialized role within the testing framework
